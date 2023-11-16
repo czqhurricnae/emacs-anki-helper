@@ -6,7 +6,7 @@
 ;; URL: https://github.com/Elilif/emacs-anki-helper
 ;; Keywords: flashcards
 ;; Version: 1.0.0
-;; Package-Requires: ((emacs "29.1"))
+;; Package-Requires: ((emacs "28.1"))
 
 ;; SPDX-License-Identifier: GPL-3.0-or-later
 
